@@ -9,9 +9,9 @@
   "author": "M. Adam Kendall",
   "license": "MIT",
   "dependencies": {
-    "gravatar": "^1.0.6",
-    "lodash": "^2.4.1",
-    "mustache": "^2.2.1"
+    "gravatar": "^1.8.0",
+    "lodash": "^4.17.19",
+    "mustache": "^4.0.1"
   },
   "repository": {
     "type": "git",
