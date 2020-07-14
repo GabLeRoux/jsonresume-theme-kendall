@@ -262,7 +262,7 @@
           {{#interestsBool}}
           <!-- HOBBIES -->
           <div class="box">
-            <h2><i class="fa fa-heart ico"></i> Intérèts</h2>
+            <h2><i class="fa fa-heart ico"></i> Intérêts</h2>
             {{#interests}}
             <div class="interests clearfix">
               <div class="item-interests">
